@@ -27,7 +27,7 @@ https://juejin_zhangcaiyi.web.cloudendpoint.cn/
 
 文章详情页面：
 
-![image-20210813141417623](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210813141417623.png)
+![image-20210813141417623](https://caiyiimg.oss-cn-shanghai.aliyuncs.com/typora/20210813144049.png)
 
 文章详情页面底部，显示所有评论和子评论：
 
@@ -43,7 +43,7 @@ https://juejin_zhangcaiyi.web.cloudendpoint.cn/
 
 先注册账号后登录
 
-![image-20210813141144814](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210813141144814.png)
+![image-20210813141144814](https://caiyiimg.oss-cn-shanghai.aliyuncs.com/typora/20210813144113.png)
 
 在我的页面，可以查看历史记录，也可以退出登录
 
@@ -51,7 +51,7 @@ https://juejin_zhangcaiyi.web.cloudendpoint.cn/
 
 查看、清空历史记录
 
-![image-20210813141253395](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210813141253395.png)
+![image-20210813141253395](https://caiyiimg.oss-cn-shanghai.aliyuncs.com/typora/20210813144137.png)
 
 
 
