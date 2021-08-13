@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <button>send</button>
+    <script>
+      var btn = document.querySelector('button')
+      var time = 5
+      btn.addEventListener('click', function () {
+        btn.disabled = true
+        var timer = setInterval(() => {
+          if (time == 0) {
+            clearInterval(timer)
+            btn.disabled = false
+            btn.innerHTML = 'send'
+            time = 5
+          } else {
+            btn.innerHTML = '还剩' + time + 's'
+            time--
+          }
+        }, 1000)
+      })
+    </script>
+  </body>
+</html>
